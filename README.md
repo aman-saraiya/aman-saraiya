@@ -3,6 +3,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/amansaraiya"><img src="https://img.shields.io/badge/LinkedIn--%230A66C2?style=social&logo=linkedin&logoColor=%230A66C2&label=LinkedIn"></a>
 <a href="mailto:amansaraiya937@gmail.com"><img src="https://img.shields.io/badge/Gmail--%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&label=Gmail" alt="amansaraiya937@gmail.com"></a>
+<img src="https://komarev.com/ghpvc/?username=aman-saraiya" alt="aman-saraiya" />
 </p>
 👨🏻‍💻 I am a Software Developer, currently working as Member of Technical Staff 2 at Nutanix<br><br>
 🎓 I completed my graduation in Electrical and Electronics Engineering with Minor in Data Science from BITS Pilani, Goa - India.<br><br>
